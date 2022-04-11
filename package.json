@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "node-fetch": "^3.2.3",
+    "openapi-to-postmanv2": "git+https://github.com/carpcarp/openapi-to-postman.git"
+  },
+  "type": "module"
+}
